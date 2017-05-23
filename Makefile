@@ -56,4 +56,4 @@ custom-reporter:
 	macaca doctor
 	CUSTOM_DIR=macaca-logs/desktop-browser-sample macaca run --verbose --reporter macaca-simple-reportor -d ./macaca-test/desktop-browser-sample.test.js
 
-.PHONY: test-pc
+.PHONY: test
